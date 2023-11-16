@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/static/css/main.d4dfdc13.css",
+    "main.js": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/static/js/main.0ce068b6.js",
+    "static/media/good-night-160166.mp3": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/static/media/good-night-160166.2cb5a2a8ad6956e24e31.mp3",
+    "static/media/drive-breakbeat-173062.mp3": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/static/media/drive-breakbeat-173062.36bb243622134fe38935.mp3",
+    "static/media/titanium-170190.mp3": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/static/media/titanium-170190.f47e25d2255c776b6b62.mp3",
+    "static/media/lofi-chill-medium-version-159456.mp3": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/static/media/lofi-chill-medium-version-159456.a166e9f6fe5bd67d96e2.mp3",
+    "index.html": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/index.html",
+    "main.d4dfdc13.css.map": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/static/css/main.d4dfdc13.css.map",
+    "main.0ce068b6.js.map": "/1deepthimohanlal/big-dev-soon-music-player-freerun-y3seat.git/static/js/main.0ce068b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4dfdc13.css",
+    "static/js/main.0ce068b6.js"
+  ]
+}
