@@ -1,4 +1,3 @@
-import AudioPlayer from 'react-h5-audio-player';
 import AudioSpectrum from 'react-audio-spectrum';
 import React,{useState,useRef,useEffect} from "react";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
